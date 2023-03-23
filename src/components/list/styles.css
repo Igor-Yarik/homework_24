@@ -1,0 +1,19 @@
+.sidebar_list_item {
+    padding-bottom: 10px;
+    transition: all 0.5s;
+}
+
+.sidebar_list_item:hover {
+    transform: translateX(20px);
+    transition: all 0.5s;
+    font-weight: 700;
+}
+
+.sidebar_list_item a {
+    text-decoration: none;
+    color: black;
+}
+
+.sidebar_list_item:last-child {
+    padding-bottom: 0;
+}

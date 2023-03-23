@@ -1,0 +1,10 @@
+.main {
+    height: calc(100vh - 100px);
+    width: 85%;
+    padding: 20px;
+    text-align: center;
+}
+
+.main_title {
+    margin-bottom: 20px;
+}
